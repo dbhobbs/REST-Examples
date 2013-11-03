@@ -1,0 +1,21 @@
+{
+	"name": "REST-Examples",
+	"description": "Totally awesome examples of RESTful web stuff",
+	"contributors": [
+		{
+			"name": "Daniel Hobbs",
+			"email": "nunya@biz.nes"
+		},
+		{
+			"name": "Jeroen Cranendonk",
+			"email": "true"
+		}
+	],
+	"repository": {
+    	"type": "git",
+    	"url": "https://github.com/dbhobbs/REST-Examples.git"
+ 	},
+	"dependencies": {
+		"restify": "latest"
+	}
+}
