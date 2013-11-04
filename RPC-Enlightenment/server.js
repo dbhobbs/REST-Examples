@@ -153,5 +153,6 @@ server.post('/removeTodoCategory/:id', function(req, res) {
 	res.send('OK');
 });
 
-server.listen(8000);
-console.log('Server running at localhost:8000');
+server.listen(8000, function() {
+	console.log('Server running at localhost:8000');
+});
