@@ -1,0 +1,13 @@
+[{
+	"self": "http://localhost:8080/users/hobbs",
+	"name": "hobbs",
+	"fullname": "Daniel Hobbs"
+},{
+	"self": "http://localhost:8080/users/jeroen",
+	"name": "jeroen",
+	"fullname": "Jeroen Cranendonk"	
+},{
+	"self": "http://localhost:8080/users/dude",
+	"name": "dude",
+	"fullname": "Jeff 'The Dude' Lebowski"
+}]
